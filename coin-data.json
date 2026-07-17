@@ -1,0 +1,1215 @@
+{
+  "dataVersion": "2026.07.16",
+  "updatedAt": "2026-07-16",
+  "changelog": "Initial published dataset — includes full 2026 Semiquincentennial program (quarters, dime, nickel, half dollar, cent) and confirmed 2026 American Innovation dollar (Iowa).",
+  "denoms": [
+    {
+      "id": "penny",
+      "name": "Penny",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Indian Head",
+          "years": [
+            [
+              1900,
+              1909
+            ]
+          ],
+          "bs": [
+            "P"
+          ],
+          "pf": [],
+          "varieties": {
+            "1909": "Final year"
+          }
+        },
+        {
+          "name": "Lincoln Wheat",
+          "years": [
+            [
+              1909,
+              1958
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1909": "VDB reverse (P,S)",
+            "1914": "Key date — D",
+            "1922": "No D / weak D",
+            "1931": "Key date — S",
+            "1943": "Steel planchet",
+            "1944": "Steel error",
+            "1955": "Doubled die obverse",
+            "1958": "DDO error"
+          }
+        },
+        {
+          "name": "Lincoln Memorial",
+          "years": [
+            [
+              1959,
+              2008
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "1969": "DDO — S",
+            "1972": "Doubled die",
+            "1983": "DDR",
+            "1995": "DDO",
+            "1999": "Wide AM reverse"
+          },
+          "varietySplits": {
+            "1960": [
+              "Large Date",
+              "Small Date"
+            ],
+            "1982": [
+              "Large Date Bronze",
+              "Small Date Bronze",
+              "Large Date Zinc",
+              "Small Date Zinc"
+            ]
+          }
+        },
+        {
+          "name": "Lincoln Bicent.",
+          "years": [
+            [
+              2009,
+              2009
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "designs": {
+            "2009": [
+              "Birth & Early Childhood",
+              "Formative Years",
+              "Professional Life",
+              "Presidency"
+            ]
+          }
+        },
+        {
+          "name": "Lincoln Shield",
+          "years": [
+            [
+              2010,
+              "now"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S",
+            "W"
+          ],
+          "varieties": {
+            "2019": "First W circulating cent"
+          }
+        },
+        {
+          "name": "Semiquincentennial Cent",
+          "years": [
+            [
+              2026,
+              2026
+            ]
+          ],
+          "bs": [],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2026": "Collector-only 1776–2026 cent; not released for circulation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nickel",
+      "name": "Nickel",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Liberty V",
+          "years": [
+            [
+              1900,
+              1912
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1912": "Rare S mint"
+          }
+        },
+        {
+          "name": "Buffalo",
+          "years": [
+            [
+              1913,
+              1938
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1913": "Two reverse types",
+            "1916": "DDO",
+            "1918": "8 over 7 — D",
+            "1937": "3-legged buffalo — D",
+            "1938": "D over S"
+          }
+        },
+        {
+          "name": "Jefferson",
+          "years": [
+            [
+              1938,
+              2003
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "1942": "Silver wartime (P,D,S)",
+            "1943": "Silver",
+            "1944": "Silver",
+            "1945": "Silver",
+            "1950": "Key date — D",
+            "1955": "D over S",
+            "1971": "No S proof"
+          },
+          "varietySplits": {
+            "1979": [
+              "Type 1 (filled S)",
+              "Type 2 (clear S)"
+            ]
+          }
+        },
+        {
+          "name": "Westward Journey",
+          "years": [
+            [
+              2004,
+              2005
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "designs": {
+            "2004": [
+              "Peace Medal",
+              "Keelboat"
+            ],
+            "2005": [
+              "American Bison",
+              "Ocean in View"
+            ]
+          }
+        },
+        {
+          "name": "Jefferson Return",
+          "years": [
+            [
+              2006,
+              "now"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2020": "W privy mark",
+            "2026": "Semiquincentennial dual date 1776–2026 added; same Jefferson design"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dime",
+      "name": "Dime",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Barber",
+          "years": [
+            [
+              1900,
+              1916
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S",
+            "O"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1916": "Final year"
+          }
+        },
+        {
+          "name": "Mercury",
+          "years": [
+            [
+              1916,
+              1945
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1916": "Key date — D (264k)",
+            "1921": "Key dates P+D",
+            "1942": "42 over 41 (P,S)",
+            "1945": "S micro"
+          }
+        },
+        {
+          "name": "Roosevelt",
+          "years": [
+            [
+              1946,
+              "now"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S",
+            "W"
+          ],
+          "varieties": {
+            "1964": "Last 90% silver",
+            "1968": "No S proof",
+            "1970": "No S proof",
+            "1975": "No S proof (2 known)",
+            "1982": "No P",
+            "1996": "W — sets only"
+          }
+        },
+        {
+          "name": "Emerging Liberty",
+          "years": [
+            [
+              2026,
+              2026
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2026": "One-year-only Semiquincentennial redesign; dual-dated 1776–2026"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quarter",
+      "name": "Quarter",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Barber",
+          "years": [
+            [
+              1900,
+              1916
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S",
+            "O"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1916": "Final year"
+          }
+        },
+        {
+          "name": "Standing Liberty",
+          "years": [
+            [
+              1916,
+              1930
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [],
+          "varieties": {
+            "1916": "Key date (rare)",
+            "1918": "8 over 7 — S",
+            "1921": "Key date",
+            "1923": "Key date — S"
+          },
+          "varietySplits": {
+            "1917": [
+              "Type 1 (bare breast)",
+              "Type 2 (chain mail)"
+            ]
+          }
+        },
+        {
+          "name": "Washington",
+          "years": [
+            [
+              1932,
+              1998
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "1932": "Key dates D+S",
+            "1964": "Last 90% silver"
+          },
+          "varietySplits": {
+            "1976": [
+              "Type I (bold lettering)",
+              "Type II (sharp lettering)"
+            ]
+          }
+        },
+        {
+          "name": "50 State",
+          "years": [
+            [
+              1999,
+              2008
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "designs": {
+            "1999": [
+              "Delaware",
+              "Pennsylvania",
+              "New Jersey",
+              "Georgia",
+              "Connecticut"
+            ],
+            "2000": [
+              "Massachusetts",
+              "Maryland",
+              "South Carolina",
+              "New Hampshire",
+              "Virginia"
+            ],
+            "2001": [
+              "New York",
+              "North Carolina",
+              "Rhode Island",
+              "Vermont",
+              "Kentucky"
+            ],
+            "2002": [
+              "Tennessee",
+              "Ohio",
+              "Louisiana",
+              "Indiana",
+              "Mississippi"
+            ],
+            "2003": [
+              "Illinois",
+              "Alabama",
+              "Maine",
+              "Missouri",
+              "Arkansas"
+            ],
+            "2004": [
+              "Michigan",
+              "Florida",
+              "Texas",
+              "Iowa",
+              "Wisconsin"
+            ],
+            "2005": [
+              "California",
+              "Minnesota",
+              "Oregon",
+              "Kansas",
+              "West Virginia"
+            ],
+            "2006": [
+              "Nevada",
+              "Nebraska",
+              "Colorado",
+              "North Dakota",
+              "South Dakota"
+            ],
+            "2007": [
+              "Montana",
+              "Washington",
+              "Idaho",
+              "Wyoming",
+              "Utah"
+            ],
+            "2008": [
+              "Oklahoma",
+              "New Mexico",
+              "Arizona",
+              "Alaska",
+              "Hawaii"
+            ]
+          }
+        },
+        {
+          "name": "DC & Territories",
+          "years": [
+            [
+              2009,
+              2009
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "designs": {
+            "2009": [
+              "District of Columbia",
+              "Puerto Rico",
+              "Guam",
+              "American Samoa",
+              "U.S. Virgin Islands",
+              "N. Mariana Islands"
+            ]
+          }
+        },
+        {
+          "name": "ATB",
+          "years": [
+            [
+              2010,
+              2021
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S",
+            "W"
+          ],
+          "designs": {
+            "2010": [
+              "Hot Springs NP",
+              "Yellowstone NP",
+              "Yosemite NP",
+              "Grand Canyon NP",
+              "Mt. Hood NF"
+            ],
+            "2011": [
+              "Gettysburg NMP",
+              "Glacier NP",
+              "Olympic NP",
+              "Vicksburg NMP",
+              "Chickasaw NRA"
+            ],
+            "2012": [
+              "El Yunque NF",
+              "Chaco Culture NHP",
+              "Acadia NP",
+              "Hawaii Volcanoes NP",
+              "Denali NP"
+            ],
+            "2013": [
+              "White Mountain NF",
+              "Perry's Victory",
+              "Great Basin NP",
+              "Fort McHenry NM",
+              "Mount Rushmore NM"
+            ],
+            "2014": [
+              "Great Smoky Mountains",
+              "Shenandoah NP",
+              "Arches NP",
+              "Great Sand Dunes NP",
+              "Everglades NP"
+            ],
+            "2015": [
+              "Homestead NM",
+              "Kisatchie NF",
+              "Blue Ridge Parkway",
+              "Bombay Hook NWR",
+              "Saratoga NHP"
+            ],
+            "2016": [
+              "Shawnee NF",
+              "Cumberland Gap NHP",
+              "Harpers Ferry NHP",
+              "Theodore Roosevelt NP",
+              "Fort Moultrie NM"
+            ],
+            "2017": [
+              "Effigy Mounds NM",
+              "Frederick Douglass NM",
+              "Ozark NSR",
+              "Ellis Island NM",
+              "George Rogers Clark NHP"
+            ],
+            "2018": [
+              "Pictured Rocks NL",
+              "Apostle Islands NL",
+              "Voyageurs NP",
+              "Cumberland Island NS",
+              "Block Island NWR"
+            ],
+            "2019": [
+              "Lowell NHP",
+              "American Memorial Park",
+              "War in the Pacific NHP",
+              "San Antonio Missions NHP",
+              "Frank Church River NRA"
+            ],
+            "2020": [
+              "National Park of American Samoa",
+              "Weir Farm NHS",
+              "Salt River Bay NHP",
+              "Marsh-Billings-Rockefeller NHP",
+              "Tallgrass Prairie NP"
+            ],
+            "2021": [
+              "Tuskegee Airmen NHS"
+            ]
+          }
+        },
+        {
+          "name": "American Women",
+          "years": [
+            [
+              2022,
+              2025
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S",
+            "W"
+          ],
+          "designs": {
+            "2022": [
+              "Maya Angelou",
+              "Dr. Sally Ride",
+              "Wilma Mankiller",
+              "Nina Otero-Warren",
+              "Anna May Wong"
+            ],
+            "2023": [
+              "Bessie Coleman",
+              "Edith Kanakaole",
+              "Eleanor Roosevelt",
+              "Jovita Idar",
+              "Maria Tallchief"
+            ],
+            "2024": [
+              "Rev. Pauli Murray",
+              "Patsy Takemoto Mink",
+              "Dr. Mary Edwards Walker",
+              "Celia Cruz",
+              "Zitkala-Sa"
+            ],
+            "2025": [
+              "Ida B. Wells",
+              "Juliette Gordon Low",
+              "Vera Rubin",
+              "Stacy Park Milbern",
+              "Althea Gibson"
+            ]
+          }
+        },
+        {
+          "name": "Semiquincentennial",
+          "years": [
+            [
+              2026,
+              2026
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2026": "Dual-dated 1776–2026"
+          },
+          "designs": {
+            "2026": [
+              "Mayflower Compact",
+              "Revolutionary War",
+              "Declaration of Independence",
+              "U.S. Constitution",
+              "Gettysburg Address"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "half",
+      "name": "Half dollar",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Barber",
+          "years": [
+            [
+              1900,
+              1915
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S",
+            "O"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1915": "Final year — S"
+          }
+        },
+        {
+          "name": "Walking Liberty",
+          "years": [
+            [
+              1916,
+              1947
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1916": "Obv/rev mint mark types",
+            "1921": "Key dates P+D+S",
+            "1938": "Key date — D"
+          }
+        },
+        {
+          "name": "Franklin",
+          "years": [
+            [
+              1948,
+              1963
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1955": "Low mintage key",
+            "1960": "Proof DDO",
+            "1963": "Final year"
+          }
+        },
+        {
+          "name": "Kennedy",
+          "years": [
+            [
+              1964,
+              "now"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S",
+            "W"
+          ],
+          "varieties": {
+            "1964": "90% silver",
+            "1965": "40% silver",
+            "1970": "40% silver — D",
+            "2014": "50th anniv. gold"
+          },
+          "varietySplits": {
+            "1976": [
+              "Type I (bold lettering)",
+              "Type II (sharp lettering)"
+            ]
+          }
+        },
+        {
+          "name": "Enduring Liberty",
+          "years": [
+            [
+              2026,
+              2026
+            ]
+          ],
+          "bs": [],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2026": "Collector-only Semiquincentennial half dollar; not released for circulation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dollar",
+      "name": "Dollar coin",
+      "icon": "🪙",
+      "series": [
+        {
+          "name": "Morgan",
+          "years": [
+            [
+              1900,
+              1921
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S",
+            "O"
+          ],
+          "pf": [
+            "P"
+          ],
+          "varieties": {
+            "1900": "O over CC (1900 only)",
+            "1901": "Key date",
+            "1903": "Key dates O+S",
+            "1921": "Final Morgan year"
+          }
+        },
+        {
+          "name": "Peace",
+          "years": [
+            [
+              1921,
+              1935
+            ]
+          ],
+          "bs": [
+            "P",
+            "D",
+            "S"
+          ],
+          "pf": [],
+          "varieties": {
+            "1921": "High relief",
+            "1928": "Key date",
+            "1934": "Key date — S",
+            "1935": "Final year — S"
+          }
+        },
+        {
+          "name": "Eisenhower",
+          "years": [
+            [
+              1971,
+              1978
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "1972": "3 reverse types"
+          },
+          "varietySplits": {
+            "1971": [
+              "Type 1 (low relief)",
+              "Type 2 (high relief)"
+            ],
+            "1976": [
+              "Type I (bold lettering)",
+              "Type II (sharp lettering)"
+            ]
+          }
+        },
+        {
+          "name": "Susan B. Anthony",
+          "years": [
+            [
+              1979,
+              1999
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "1999": "Resumed production"
+          },
+          "varietySplits": {
+            "1979": [
+              "Type 1 (filled S)",
+              "Type 2 (clear S)"
+            ]
+          }
+        },
+        {
+          "name": "Sacagawea",
+          "years": [
+            [
+              2000,
+              "auto"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2000": "Glenna Goodacre proof",
+            "2001": "Cheerios dollar"
+          },
+          "designs": {
+            "2000": [
+              "Eagle reverse"
+            ],
+            "2001": [
+              "Eagle reverse"
+            ],
+            "2002": [
+              "Eagle reverse"
+            ],
+            "2003": [
+              "Eagle reverse"
+            ],
+            "2004": [
+              "Eagle reverse"
+            ],
+            "2005": [
+              "Eagle reverse"
+            ],
+            "2006": [
+              "Eagle reverse"
+            ],
+            "2007": [
+              "Eagle reverse"
+            ],
+            "2008": [
+              "Eagle reverse"
+            ],
+            "2009": [
+              "Three Sisters Agriculture"
+            ],
+            "2010": [
+              "Hiawatha Belt"
+            ],
+            "2011": [
+              "Wampanoag Treaty"
+            ],
+            "2012": [
+              "Trade Routes"
+            ],
+            "2013": [
+              "Delawares Join Confederacy"
+            ],
+            "2014": [
+              "Native Hospitality"
+            ],
+            "2015": [
+              "Mohawk Ironworkers"
+            ],
+            "2016": [
+              "Code Talkers"
+            ],
+            "2017": [
+              "Sequoyah"
+            ],
+            "2018": [
+              "Jim Thorpe"
+            ],
+            "2019": [
+              "Mary Golda Ross"
+            ],
+            "2020": [
+              "Elizabeth Peratrovich"
+            ],
+            "2021": [
+              "Ely S. Parker"
+            ],
+            "2022": [
+              "Pueblo Pottery"
+            ],
+            "2023": [
+              "Maria Tallchief"
+            ],
+            "2024": [
+              "Brave Heart"
+            ]
+          }
+        },
+        {
+          "name": "Presidential",
+          "years": [
+            [
+              2007,
+              2016
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2007": "Edge lettering errors",
+            "2008": "Missing edge lettering"
+          },
+          "designs": {
+            "2007": [
+              "George Washington",
+              "John Adams",
+              "Thomas Jefferson",
+              "James Madison"
+            ],
+            "2008": [
+              "James Monroe",
+              "John Quincy Adams",
+              "Andrew Jackson",
+              "Martin Van Buren"
+            ],
+            "2009": [
+              "William Henry Harrison",
+              "John Tyler",
+              "James K. Polk",
+              "Zachary Taylor"
+            ],
+            "2010": [
+              "Millard Fillmore",
+              "Franklin Pierce",
+              "James Buchanan",
+              "Abraham Lincoln"
+            ],
+            "2011": [
+              "Andrew Johnson",
+              "Ulysses S. Grant",
+              "Rutherford B. Hayes",
+              "James A. Garfield"
+            ],
+            "2012": [
+              "Chester A. Arthur",
+              "Grover Cleveland (1st)",
+              "Benjamin Harrison",
+              "Grover Cleveland (2nd)"
+            ],
+            "2013": [
+              "William McKinley",
+              "Theodore Roosevelt",
+              "William Howard Taft",
+              "Woodrow Wilson"
+            ],
+            "2014": [
+              "Warren G. Harding",
+              "Calvin Coolidge",
+              "Herbert Hoover",
+              "Franklin D. Roosevelt"
+            ],
+            "2015": [
+              "Harry S. Truman",
+              "Dwight D. Eisenhower",
+              "John F. Kennedy",
+              "Lyndon B. Johnson"
+            ],
+            "2016": [
+              "Richard M. Nixon",
+              "Gerald R. Ford",
+              "Ronald Reagan",
+              "Native American $1"
+            ]
+          }
+        },
+        {
+          "name": "American Innovation",
+          "years": [
+            [
+              2018,
+              "auto"
+            ]
+          ],
+          "bs": [
+            "P",
+            "D"
+          ],
+          "pf": [
+            "S"
+          ],
+          "varieties": {
+            "2026": "Liberty Bell \"250\" privy mark (Semiquincentennial)"
+          },
+          "designs": {
+            "2018": [
+              "Introduction Coin"
+            ],
+            "2019": [
+              "Delaware — Steamboat",
+              "Pennsylvania — Polio Vaccine",
+              "New Jersey — Light Bulb",
+              "Georgia — Trustees' Garden"
+            ],
+            "2020": [
+              "Connecticut — Gerber Spline",
+              "Massachusetts — Telephone",
+              "Maryland — Hubble Telescope",
+              "South Carolina — Septima Clark"
+            ],
+            "2021": [
+              "New Hampshire — Christa McAuliffe",
+              "Virginia — Chesapeake Bay Bridge-Tunnel",
+              "New York — Erie Canal",
+              "North Carolina — Flight at Kitty Hawk"
+            ],
+            "2022": [
+              "Rhode Island — Americas Cup",
+              "Vermont — Snowboard",
+              "Kentucky — Bourbon",
+              "Tennessee — Nashville Sound"
+            ],
+            "2023": [
+              "Ohio — Astronauts",
+              "Louisiana — Louisiana Purchase",
+              "Indiana — Automobile",
+              "Mississippi — Agriculture"
+            ],
+            "2024": [
+              "Illinois — Skyscraper",
+              "Alabama — Chronobiology",
+              "Maine — Lobster",
+              "Missouri — Pony Express"
+            ],
+            "2025": [
+              "Arkansas",
+              "Michigan",
+              "Florida",
+              "Texas"
+            ],
+            "2026": [
+              "Iowa — Norman Borlaug"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
