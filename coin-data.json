@@ -1,7 +1,7 @@
 {
-  "dataVersion": "2026.07.16",
+  "dataVersion": "2026.07.17",
   "updatedAt": "2026-07-16",
-  "changelog": "Initial published dataset — includes full 2026 Semiquincentennial program (quarters, dime, nickel, half dollar, cent) and confirmed 2026 American Innovation dollar (Iowa).",
+  "changelog": "Initial published dataset — includes full 2026 Semiquincentennial program (quarters, dime, nickel, half dollar, cent) and confirmed 2026 American Innovation dollar (Iowa).Test Run",
   "denoms": [
     {
       "id": "penny",
